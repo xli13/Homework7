@@ -1,0 +1,17 @@
+Rongali | Cyber Security, IDS | 5 | 5 | 3 | 4 | 5 | Should explain the workflo2 in more detail |  Could Speak louder | Good graph and hava a great understanding of current Security issue
+
+Yu | Predictive Analytics in Business applications | 5 | 5 | 5 | 5 | 5 | Good expalin of the system |  Interesting insight of the wine selection | Good example
+
+Eigin | Tredning propagation| 5 | 5 | 5 | 5 | 5 | Interesing topic and will use machine learning| The example is really uesful and can hand on| Speak clearly and make eye contact
+
+Mummadi | Malware, cyber security | 5 | 4 | 5 | 5 | 5 | Good understanding of malware detection in anti-virus application | Good example of VirusTotal | Good graph but could speak a little bit slowly
+
+Iyalla | Healthcare | 4 | 3 | 5 | 5 | 5| Good personal insight | More example of this domain will be helpful | Good presentation format look amazing
+
+Maharajan | Stock market Prediction | 4 | 4 | 5 | 4 | 5 | Good exmaple of stock prediction accuracy | for the source of data, could explain more in detail | Good presentation speed
+
+Purvachar | Retail domain, Predictive analysis | 5 | 4 | 5 | 5 | 5 | good presentation and interaction between listener | Explain the use of big date in this domain in detail | Good example
+
+Fani | Sales prediction | 5 | 5 | 5 | 5 | 5 | The font of presentation is small | Good organization | Analytics model is elborate
+
+Vallabhaneni | Healthcare, Apriori Algorithms | 4 | 5 | 5 | 4 | 5 | Good explaination of the Algorithm | The gui is helpful | Good presentation speed, but could speak a little bit quick
